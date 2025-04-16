@@ -1,0 +1,22 @@
+* {
+  background-color: #24353f;
+  font-family: "Titillium Web", sans-serif;
+}
+
+.main-color {
+  background-color: #24353f;
+  box-shadow: 9px 9px 90px rgba(0, 0, 0, 0.2);
+}
+
+.form-control {
+  color: white;
+  background-color: transparent;
+  border-color: #ccc;
+}
+
+.form-control::placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+.home {
+  height: 75vh;
+}
